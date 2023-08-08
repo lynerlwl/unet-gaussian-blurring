@@ -1,4 +1,4 @@
-# phd01-unet-blur
+# Performance Assessment of U-Net for Semantic Segmentation of Liquid Spray Images with Gaussian Blurring
 
 This is the code used in "Performance Assessment of U-Net for Semantic Segmentation of Liquid Spray Images with Gaussian Blurring" published in ICOCO 2023. If you use this code or found it helpful, please consider citing:
 
