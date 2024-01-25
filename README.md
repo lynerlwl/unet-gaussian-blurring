@@ -1,6 +1,6 @@
 # Performance Assessment of U-Net for Semantic Segmentation of Liquid Spray Images with Gaussian Blurring
 
-This is the code used in "Performance Assessment of U-Net for Semantic Segmentation of Liquid Spray Images with Gaussian Blurring" for ICOCO 2023.
+This is the code for [Performance Assessment of U-Net for Semantic Segmentation of Liquid Spray Images with Gaussian Blurring](https://ieeexplore.ieee.org/document/10397704) published in ICOCO 2023.
 
 Read the article [here](https://drive.google.com/file/d/18JGnCdXw1LVvwUFYzxNzOa0zej7t4l5u/view?usp=sharing) or watch the [overview video](https://youtu.be/4nNI5r2cJsU).
 
