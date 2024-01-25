@@ -9,5 +9,11 @@ If you are interested in how our U-Net is trained, please refer to [this repo](h
 If you use this code or found it helpful, please consider citing:
 
 ```bibtex
-will be updated soon
+@inproceedings{lim2023performance,
+  title={Performance Assessment of U-Net for Semantic Segmentation of Liquid Spray Images with Gaussian Blurring},
+  author={Lim, Wei Lun and Teow, Matthew YW and Wong, Richard TK and Pathan, Refat Khan and Lau, Sian Lun and Ho, Chiung Ching and Bravo, Luis and Koneru, Rahul Babu and Khare, Prashant},
+  booktitle={IEEE International Conference on Computing (ICOCO)},
+  pages={462--467},
+  year={2023}
+}
 ```
